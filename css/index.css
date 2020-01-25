@@ -65,7 +65,7 @@ h1, h2, h3, h4, h5 {
 p {
     line-height: 1.4;
 }
-/*CSS start*/
+/*Header/Nav CSS start*/
 nav{
     width: 90%;
     display: flex;
@@ -85,7 +85,7 @@ header {
     justify-content: center;
     margin-bottom: 3%;
 }
-
+/*Header/Nav CSS end*/
 .container {
     width: 800px;
     margin: 0 auto;
