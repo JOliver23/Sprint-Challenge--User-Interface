@@ -83,6 +83,7 @@ nav{
     align-items: flex-end;
     margin: 3% 0;
 }
+/* For the nav, I might switch this up so that the logo is flush with the left side of the container. There are several different ways you could handle this, but the easiest way to do it with the way you have the HTML set up is to change justify-content to space-between, and maybe add padding so that the links still have space to the right side. */
 
 nav a {
     text-decoration: none;
